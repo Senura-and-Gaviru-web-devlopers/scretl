@@ -108,3 +108,21 @@
   background-color: green;
   color: whitesmoke;
 }
+.hintro{
+  font-family: 'Poppins', sans-serif;
+  position: absolute;
+  top:8%;
+  left: 0%;
+  right: 0%;
+  background-color:green;
+  color: white;
+  padding: 20px;
+  height: 50%;
+  width:100%;
+}
+.hword{
+  color: yellow;
+  position:absolute;
+  top: 16%;
+  left:28%;
+}
